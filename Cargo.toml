@@ -1,5 +1,5 @@
 [package]
-name = "Rust2-3-1NN"
+name = "rust_2_3_1_nn"
 version = "0.1.0"
 authors = ["Ophois47 <48365899+Ophois47@users.noreply.github.com>"]
 edition = "2018"
